@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "131088853646",
+    "firebase_url": "https://testplatzi-592ae.firebaseio.com",
+    "project_id": "testplatzi-592ae",
+    "storage_bucket": "testplatzi-592ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131088853646:android:493f49e8894ba6fb8d77df",
+        "android_client_info": {
+          "package_name": "com.anncode.platzitripsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131088853646-vd5t4ir8jik6irahpo5put1am1i00u29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anncode.platzitripsapp",
+            "certificate_hash": "a94d2a212adbf16e125a989f205cd8ca7dc1bfc3"
+          }
+        },
+        {
+          "client_id": "131088853646-t2mg1ukqjo2tivrhesvtrdeh1mqum59p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBblcYYqJA5naDWkRO82wwt0SXDX69SKFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131088853646-t2mg1ukqjo2tivrhesvtrdeh1mqum59p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
